@@ -37,7 +37,7 @@
  *******************/
 
 // http://docs.oracle.com/javase/7/docs/api/java/util/logging/Level.html
-// For a log to be displayed it's level need to be higher than
+// For a log to be displayed its level need to be higher than
 // minLevelToDisplay
 
 var Level = Object.freeze({
